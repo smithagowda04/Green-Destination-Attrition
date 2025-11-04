@@ -111,3 +111,4 @@ Make informed, data-backed workforce decisions
 Smitha Gowda
 📊 Data Analyst | Tableau Enthusiast
 🔗 LinkedIn Profile | https://www.linkedin.com/in/smithagowda2105
+Tableau link | https://public.tableau.com/views/projectgreen/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
