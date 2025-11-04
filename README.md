@@ -77,7 +77,8 @@ Excel – for data cleaning and preparation
 
 ---
 📊 Dashboard Preview
-
+https://github.com/smithagowda04/Green-Destination-Attrition/blob/main/Screenshot%20Green%20Destination
+https://public.tableau.com/views/projectgreen/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ---
